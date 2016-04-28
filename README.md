@@ -1,2 +1,2 @@
 # ogods
-Retrieving information from official diaries
+Retrieving and storing information from official diaries in a smart fashion.
