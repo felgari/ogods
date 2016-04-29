@@ -28,7 +28,8 @@ MAX_YEAR = 2017
 
 URL_BASE = 'http://juntadeandalucia.es/eboja/'
 
-SECTIONS = {'s1': 'Disposiciones generales',
+SECTIONS = {'s0': 'Disposiciones estatales',
+            's1': 'Disposiciones generales',
             's2.1': 'Nombramientos, situaciones e incidencias',
             's2.2': 'Oposiciones, concursos y otras convocatorias',
             's3': 'Otras disposiciones',
